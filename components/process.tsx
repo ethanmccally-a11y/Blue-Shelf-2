@@ -8,7 +8,7 @@ const steps = [
     number: "01",
     icon: Package,
     title: "Send Product",
-    description: "Ship your product to our Bentonville studio. We handle intake, prep, and scheduling.",
+    description: "Ship your product to the studio. We handle intake, prep, and scheduling.",
   },
   {
     number: "02",

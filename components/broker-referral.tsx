@@ -9,7 +9,7 @@ const benefits = [
   {
     icon: Percent,
     title: "Referral Incentives",
-    description: "Competitive referral incentives for approved partners on closed projects.",
+    description: "Earn 10% of the project invoice on the first project with any brand you introduce, paid after we collect.",
   },
   {
     icon: FileSearch,
@@ -24,7 +24,7 @@ const benefits = [
   {
     icon: Users,
     title: "Flexible Collaboration",
-    description: "Work with us directly or through a white-label relationship—whatever fits your model.",
+    description: "Work with us directly or through white-label. Partner rates for white-label work are quoted per partnership based on volume.",
   },
 ]
 
@@ -68,7 +68,7 @@ export function BrokerReferral() {
             </h2>
             <p className={`text-gray-600 text-lg mb-8 leading-relaxed transition-all duration-700 delay-200 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
               Brokers and retail partners can refer their client brands to Blue Shelf for Walmart-ready content support. 
-              We work directly with the brand or support through a white-label relationship. Referral incentives available for approved partners.
+              We work directly with the brand or support through a white-label relationship. Earn 10% of the project invoice on the first project with any brand you introduce, paid after we collect.
             </p>
 
             {/* Benefit cards */}

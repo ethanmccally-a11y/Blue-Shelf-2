@@ -65,7 +65,7 @@ export function ProductShowcase() {
   }
 
   return (
-    <section ref={sectionRef} id="services" className="py-28 bg-white">
+    <section ref={sectionRef} id="services" className="py-28 bg-white overflow-x-hidden">
       <div className="max-w-7xl mx-auto px-6">
         {/* Header */}
         <div 

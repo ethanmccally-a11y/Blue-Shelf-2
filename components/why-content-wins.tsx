@@ -49,7 +49,7 @@ const performanceCards = [
     prefix: "Up to +",
     suffix: "%",
     label: "GMV per visitor",
-    description: "From adding rich media (video, enhanced content)",
+    description: "Associated with stronger conversion — rich media is not weighted in Walmart's content score",
   },
 ]
 
@@ -115,7 +115,7 @@ export function WhyContentWins() {
   const counts = [count1, count2, count3]
 
   return (
-    <section ref={sectionRef} id="why-content-wins" className="bg-white py-28">
+    <section ref={sectionRef} id="why-content-wins" className="bg-white py-28 overflow-x-hidden">
       <div className="max-w-7xl mx-auto px-6">
         {/* Section Header - BIG and Important */}
         <div className={`text-center mb-16 transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>

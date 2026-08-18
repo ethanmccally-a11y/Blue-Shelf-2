@@ -42,7 +42,7 @@ export function BeforeAfter() {
   }, [])
 
   return (
-    <section ref={sectionRef} id="before-after" className="bg-gradient-to-b from-gray-50 to-white py-28">
+    <section ref={sectionRef} id="before-after" className="bg-gradient-to-b from-gray-50 to-white py-28 overflow-x-hidden">
       <div className="max-w-7xl mx-auto px-6">
         {/* Header */}
         <div 

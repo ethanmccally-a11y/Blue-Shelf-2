@@ -162,7 +162,7 @@ export function Pricing() {
             Brand Launch Catalog — from $7,200+ for 12 SKUs · for new-to-Walmart suppliers
           </p>
           <p className="text-gray-400 text-sm">
-            Rush option: +30% drops turnaround to 3–5 business days · CQS-aligned guarantee
+            Rush: +30%, $250 minimum. 3–5 business day turnaround · CQS-aligned guarantee
           </p>
         </div>
       </div>

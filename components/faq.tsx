@@ -11,7 +11,7 @@ const faqs = [
   },
   {
     question: "How long does production take?",
-    answer: "Standard turnaround is 10-12 business days from product arrival at our studio. Expedited projects can be completed in 3-5 business days with rush pricing. Timeline depends on scope and current capacity.",
+    answer: "Standard turnaround is 10–12 business days from product arrival at the studio. Rush: +30%, $250 minimum, 3–5 business day turnaround. Timeline depends on scope and current capacity.",
   },
   {
     question: "How do you determine what images a brand needs?",

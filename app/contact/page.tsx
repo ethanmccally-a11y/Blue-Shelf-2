@@ -46,7 +46,7 @@ export default function ContactPage() {
 
               <div className="space-y-6 mb-12">
                 <a 
-                  href="mailto:hello@blueshelf.com"
+                  href="mailto:sales@blue-shelf.com"
                   className="flex items-center gap-4 p-4 rounded-xl bg-gray-50 hover:bg-gray-100 transition-colors group"
                 >
                   <div className="w-12 h-12 rounded-lg bg-[#0071ce]/10 flex items-center justify-center group-hover:bg-[#0071ce]/20 transition-colors">
@@ -54,7 +54,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500">Email us</p>
-                    <p className="text-gray-900 font-medium">hello@blueshelf.com</p>
+                    <p className="text-gray-900 font-medium">sales@blue-shelf.com</p>
                   </div>
                 </a>
 
@@ -72,7 +72,7 @@ export default function ContactPage() {
                 </a>
 
                 <a 
-                  href="https://calendly.com/blueshelf"
+                  href="https://calendar.app.google/wkmc3WN7n98oVEfh8"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 rounded-xl bg-gray-50 hover:bg-gray-100 transition-colors group"

@@ -57,7 +57,7 @@ export default function ReferPage() {
             Submit a Referral
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Know a CPG brand that needs Walmart-ready content? Submit their info and earn 10% when they close.
+            Know a CPG brand that needs Walmart-ready content? Earn 10% of the project invoice on the first project with any brand you introduce, paid after we collect.
           </p>
         </div>
       </section>

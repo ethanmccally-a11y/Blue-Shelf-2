@@ -10,7 +10,7 @@ const benefits = [
   {
     icon: Percent,
     title: "Referral Incentives",
-    description: "Competitive referral incentives for approved partners on closed projects.",
+    description: "Earn 10% of the project invoice on the first project with any brand you introduce, paid after we collect.",
   },
   {
     icon: FileSearch,
@@ -25,7 +25,7 @@ const benefits = [
   {
     icon: Users,
     title: "White-Label Options",
-    description: "Work with us directly or through a white-label relationship—whatever fits your client model.",
+    description: "Work with us directly or white-label. Partner rates for white-label work are quoted per partnership based on volume.",
   },
 ]
 
@@ -48,7 +48,7 @@ const howItWorks = [
   {
     step: "04",
     title: "Receive Your Incentive",
-    description: "Approved partners receive referral incentives after project completion.",
+    description: "Earn 10% of the project invoice on the first project with any brand you introduce, paid after we collect.",
   },
 ]
 
@@ -102,7 +102,7 @@ export default function PartnersPage() {
             Partner With Blue Shelf
           </h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
-            Join our partner program and help CPG brands get Walmart-ready content. Referral incentives available for approved partners.
+            Join our partner program and help CPG brands get Walmart-ready content. Earn 10% of the project invoice on the first project with any brand you introduce, paid after we collect.
           </p>
           <Button
             size="lg"

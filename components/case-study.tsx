@@ -127,7 +127,7 @@ export function CaseStudy() {
   }, [currentImages.length])
 
   return (
-    <section ref={sectionRef} id="case-study" className="bg-white py-28">
+    <section ref={sectionRef} id="case-study" className="bg-white py-28 overflow-x-hidden">
       <div className="max-w-7xl mx-auto px-6">
         {/* Header with Kanak Logo */}
         <div 
